@@ -1,0 +1,45 @@
+#p1 {
+  color: black;
+  font-size: 100px;
+  text-align: left;
+  background-color: yellow;
+}
+
+#p2 {
+  color: green;
+  font-size: 100px;
+  text-align: left;
+  background-color: white;
+}
+#p3 {
+  color: white;
+  font-size: 100px;
+  text-align: left;
+  background-color: black;
+}
+#p4 {
+  color: white;
+  font-size: 100px;
+  text-align: left;
+  background-color: black;
+}
+#p5 {
+  color: blue;
+  font-size: 100px;
+  text-align: left;
+  background-color: white;
+}
+#p6 {
+  color: blue;
+  font-size: 100px;
+  text-align: left;
+  background-color: white;
+}
+
+#p7 {
+  color: mediumorchid;
+  font-size: 150px;
+  text-align: left;
+  background-color: white;
+  text-shadow: 3px 3px pink;
+}
